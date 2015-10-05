@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "julien",
-  "description": "for testing purpose",
+  "description": "selectronic team bot",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
